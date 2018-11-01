@@ -1,0 +1,28 @@
+{
+    "name": "FreshToYou",
+    "short_name": "FreshToYou",
+    "start_url": "./",
+    "description": "",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "display": "standalone",
+    "lang": "en_US",
+    "orientation": "any",
+    "icons": [{
+        "src": "/Playground/wordpress/wp-content/uploads/2018/04/cropped-shop-icon-384-1-128x128.png",
+        "type": "image/png",
+        "sizes": "128x128"
+    }, {
+        "src": "/Playground/wordpress/wp-content/uploads/2018/04/cropped-shop-icon-384-1-192x192.png",
+        "type": "image/png",
+        "sizes": "192x192"
+    }, {
+        "src": "/Playground/wordpress/wp-content/uploads/2018/04/cropped-shop-icon-384-1-512x512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+    }, {
+        "src": "/Playground/wordpress/wp-content/uploads/2018/04/cropped-shop-icon-384-1.png",
+        "type": "image/png",
+        "sizes": "524x524"
+    }]
+}
